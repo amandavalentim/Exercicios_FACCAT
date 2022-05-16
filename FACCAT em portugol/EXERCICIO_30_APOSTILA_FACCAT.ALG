@@ -1,55 +1,55 @@
 Algoritmo "exercicio_30_apostila_faccat"
-// Disciplina   : [Lógica de Programação]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Jailson
-// Descrição   : Ler 3 valores (considere que não serão informados valores iguais) e escrevê-los em ordem crescente.
+// DescriÃ§Ã£o   : Ler 3 valores (considere que nÃ£o serÃ£o informados valores iguais) e escrevÃª-los em ordem crescente.
 // Autor(a)    : Amanda Vitoria Valentim dos Anjos
 // Data atual  : 16/05/2022
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 
    valor1, valor2, valor3: inteiro
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    Escreva("Por gentileza, informe um valor: ")
-   Leia(Valor1)
+   Leia(valor1)
    Escreva("Agora, informe outro valor: ")
-   Leia(Valor2)
+   Leia(valor2)
    Escreva("Agora, informe mais outro valor: ")
-   Leia(Valor3)
+   Leia(valor3)
 
 
-   se (Valor1<Valor2) e (Valor1<Valor3) e (Valor2<Valor3) então
-      Escreval("Seus valores em ordem crescente é: ", Valor1," -",Valor2," -",Valor3)
+   se (valor1<valor2) e (valor1<valor3) e (valor2<valor3) entÃ£o
+      Escreval("Seus valores em ordem crescente Ã©: ", valor1," -",valor2," -",valor3)
 
    senao
 
-      se (Valor1<Valor2)  e (Valor1<Valor3) e (Valor3<Valor2) entao
-         Escreval("Seus valores em ordem crescente é: ", Valor1," -",Valor3," -",Valor2)
+      se (valor1<Valor2)  e (valor1<valor3) e (valor3<valor2) entao
+         Escreval("Seus valores em ordem crescente Ã©: ", Valor1," -",valor3," -",valor2)
 
       senao
 
-         se (Valor2<Valor1)  e (Valor2<Valor3) e (Valor1<Valor3) entao
-            Escreval("Seus valores em ordem crescente é: ", Valor2," -", Valor1," -",Valor3)
+         se (valor2<valor1)  e (valor2<valor3) e (valor1<valor3) entao
+            Escreval("Seus valores em ordem crescente Ã©: ", valor2," -", valor1," -",valor3)
 
          senao
 
-            se (Valor2<Valor1)  e (Valor2<Valor3) e (Valor3<Valor1) entao
-               Escreval("Seus valores em ordem crescente é: ", Valor2," -",Valor3," -",Valor1)
+            se (valor2<valor1)  e (valor2<valor3) e (valor3<valor1) entao
+               Escreval("Seus valores em ordem crescente Ã©: ", valor2," -",valor3," -",valor1)
 
             senao
 
-               se (Valor3<Valor1)  e (Valor3<Valor2) e (Valor2<Valor1) entao
-                  Escreval("Seus valores em ordem crescente é: ", Valor3," -",Valor2," -",Valor1)
+               se (valor3<Valor1)  e (valor3<Valor2) e (valor2<valor1) entao
+                  Escreval("Seus valores em ordem crescente Ã©: ", valor3," -",valor2," -",valor1)
 
                senao
 
-                  se (Valor3<Valor1)  e (Valor3<Valor2) e (Valor1<Valor2) entao
-                     Escreval("Seus valores em ordem crescente é: ", Valor3," -",Valor1," -",Valor2)
+                  se (valor3<valor1)  e (valor3<valor2) e (valor1<valor2) entao
+                     Escreval("Seus valores em ordem crescente Ã©: ", valor3," -",valor1," -",valor2)
 
                   senao
 
-                     Escreval("Esses valores não podem ser lidos, pois são iguais")
+                     Escreval("Esses valores nÃ£o podem ser lidos, pois sÃ£o iguais")
 
                   fimse
                fimse
