@@ -4,3 +4,7 @@
 ###
 
 Exercícios de algoritmos da apostila FACCAT que eu mesma resolvi, tendo como propósito, aprender lógica de programação.
+
+###
+
+- Total de 129 exercícios;
