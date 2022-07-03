@@ -7,4 +7,4 @@ Exercícios de algoritmos da apostila FACCAT que eu mesma resolvi, tendo como pr
 
 ###
 
-- Total de 129 exercícios;
+- Total de 117 exercícios;
