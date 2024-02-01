@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FaccatEx6/1.0.0": {
+        "runtime": {
+          "FaccatEx6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FaccatEx6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
