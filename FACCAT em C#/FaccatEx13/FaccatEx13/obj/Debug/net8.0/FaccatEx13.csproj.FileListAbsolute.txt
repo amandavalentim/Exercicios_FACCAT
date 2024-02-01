@@ -1,0 +1,14 @@
+C:\Users\amanda.anjos\Documents\lógicaC#\FaccatEx13\FaccatEx13\bin\Debug\net8.0\FaccatEx13.exe
+C:\Users\amanda.anjos\Documents\lógicaC#\FaccatEx13\FaccatEx13\bin\Debug\net8.0\FaccatEx13.deps.json
+C:\Users\amanda.anjos\Documents\lógicaC#\FaccatEx13\FaccatEx13\bin\Debug\net8.0\FaccatEx13.runtimeconfig.json
+C:\Users\amanda.anjos\Documents\lógicaC#\FaccatEx13\FaccatEx13\bin\Debug\net8.0\FaccatEx13.dll
+C:\Users\amanda.anjos\Documents\lógicaC#\FaccatEx13\FaccatEx13\bin\Debug\net8.0\FaccatEx13.pdb
+C:\Users\amanda.anjos\Documents\lógicaC#\FaccatEx13\FaccatEx13\obj\Debug\net8.0\FaccatEx13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanda.anjos\Documents\lógicaC#\FaccatEx13\FaccatEx13\obj\Debug\net8.0\FaccatEx13.AssemblyInfoInputs.cache
+C:\Users\amanda.anjos\Documents\lógicaC#\FaccatEx13\FaccatEx13\obj\Debug\net8.0\FaccatEx13.AssemblyInfo.cs
+C:\Users\amanda.anjos\Documents\lógicaC#\FaccatEx13\FaccatEx13\obj\Debug\net8.0\FaccatEx13.csproj.CoreCompileInputs.cache
+C:\Users\amanda.anjos\Documents\lógicaC#\FaccatEx13\FaccatEx13\obj\Debug\net8.0\FaccatEx13.dll
+C:\Users\amanda.anjos\Documents\lógicaC#\FaccatEx13\FaccatEx13\obj\Debug\net8.0\refint\FaccatEx13.dll
+C:\Users\amanda.anjos\Documents\lógicaC#\FaccatEx13\FaccatEx13\obj\Debug\net8.0\FaccatEx13.pdb
+C:\Users\amanda.anjos\Documents\lógicaC#\FaccatEx13\FaccatEx13\obj\Debug\net8.0\FaccatEx13.genruntimeconfig.cache
+C:\Users\amanda.anjos\Documents\lógicaC#\FaccatEx13\FaccatEx13\obj\Debug\net8.0\ref\FaccatEx13.dll
